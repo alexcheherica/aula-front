@@ -1,2 +1,2 @@
 # aula-front
-Exmplos e exercícios de HTML
+Exemplos e exercícios de HTML
